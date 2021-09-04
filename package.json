@@ -1,0 +1,13 @@
+{
+  "name": "Zevibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Michii",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1630670642.00bd92a",
+    "googleapis": "^39.2.0",
+    "moment": "^2.29.1"
+  }
+}
