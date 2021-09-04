@@ -123,4 +123,4 @@ function generateData(submitter, corpse) {
 // client.on('error', (e) => console.error(e));
 // client.on('warning', (e) => console.warn(e));
 // client.on('debug', (e) => console.info(e));
-client.login(config.token);
+client.login(process.env.TOKEN);
