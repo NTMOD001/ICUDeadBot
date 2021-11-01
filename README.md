@@ -18,9 +18,12 @@ All you need to do is upload your screenshot with this pattern as a caption.
 
 > Submitter : <Your character's full name here>
 >
-> Saw dead of : <Those people's full name seperated by , (commas)> 
+> Saw dead of : <Those people's full name seperated by , (commas)
 >
-> ![This is your screenshot.](/image/sample.png "This is your screenshot.")
+> (and your screenshot down below like this one for instance :D)
+> 
+> <img alt="let's say this is your screenshot :)" src="/image/sample.png" width="350">
+
 
 That's it!
 
