@@ -39,7 +39,9 @@ function generateMessage(arr, topic) {
     var contentMessage = '';
     let leaderboard = arr.slice(0, 3);
     leaderboard.forEach(element => {
-        contentMessage += element[0].padEnd(20, ' ');
+        let name = element[0].split(' ')
+       
+        contentMessage += capitalizeCase(name).padEnd(20, ' ');
         contentMessage += ' : ' + element[1].toString().padStart(3, ' ') + '\n'
         // contentMessage += `  ${element[0]} : ${element[1]} \n`
     });
@@ -47,4 +49,17 @@ function generateMessage(arr, topic) {
 
     const message = header + '\n' + '```' + contentMessage + '```'
     return message;
+}
+
+function capitalizeCase(name) {
+    let first = name[0];
+    let last = name[1];
+    let firstname = first.toLowerCase();
+    let capFirstName = firstname.charAt(0).toUpperCase() + firstname.substring(1, firstname.length);
+
+    let lastname = last.toLowerCase();
+    let capLastName = lastname.charAt(0).toUpperCase() + lastname.substring(1, lastname.length);
+
+    
+    return capFirstName + " " +capLastName;
 }

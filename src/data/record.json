@@ -1,70 +1,49 @@
 {
   "records": [
     {
-      "submitter": "Hendry Roa",
-      "dead": "Zevilia D'fyln",
-      "time": "2021-09-04T07:54:20.660Z"
+      "submitter": "zevilia d'fyln",
+      "dead": "rang vallar"
     },
     {
-      "submitter": "Zevilia",
-      "dead": "Melinda",
-      "time": "2021-09-04T08:39:46.464Z"
+      "submitter": "zevilia d'fyln",
+      "dead": "anael starlight"
     },
     {
-      "submitter": "Zevilia",
-      "dead": "Melinda",
-      "time": "2021-09-04T08:41:14.952Z"
+      "submitter": "zevilia d'fyln",
+      "dead": "velera valeon"
     },
     {
-      "submitter": "Zevilia",
-      "dead": "Rang",
-      "time": "2021-09-04T08:41:14.952Z"
+      "submitter": "zevilia d'fyln",
+      "dead": "aryn lunatear"
     },
     {
-      "submitter": "Zevilia",
-      "dead": "Anael",
-      "time": "2021-09-04T08:41:14.952Z"
+      "submitter": "schere nava",
+      "dead": "zevilia d'fyln"
     },
     {
-      "submitter": "Anael",
-      "dead": "Dinky",
-      "time": "2021-09-04T09:15:19.125Z"
+      "submitter": "schere nava",
+      "dead": "rang vallar"
     },
     {
-      "submitter": "Anael",
-      "dead": "Rae",
-      "time": "2021-09-04T09:15:19.125Z"
+      "submitter": "schere nava",
+      "dead": "anael starlight"
     },
     {
-      "submitter": "Anael",
-      "dead": "Celah",
-      "time": "2021-09-04T09:15:19.125Z"
-    },
-    {
-      "submitter": "Anael",
-      "dead": "Roa",
-      "time": "2021-09-04T09:15:19.125Z"
-    },
-    {
-      "submitter": "Anael",
-      "dead": "Nava",
-      "time": "2021-09-04T09:15:19.125Z"
+      "submitter": "anael starlight",
+      "dead": "melinda mega-melons"
     }
   ],
   "submitters": {
-    "Hendry Roa": 1,
-    "Zevilia": 4,
-    "Anael": 5
+    "zevilia d'fyln": 4,
+    "schere nava": 3,
+    "anael starlight": 1
   },
   "deads": {
-    "Zevilia D'fyln": 1,
-    "Melinda": 2,
-    "Rang": 1,
-    "Anael": 1,
-    "Dinky": 1,
-    "Rae": 1,
-    "Celah": 1,
-    "Roa": 1,
-    "Nava": 1
+    "rang vallar": 2,
+    "anael starlight": 2,
+    "velera valeon": 1,
+    "aryn lunatear": 1,
+    "zevilia d'fyln": 1,
+    "melinda mega-melons": 1
   }
 }

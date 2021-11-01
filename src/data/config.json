@@ -1,4 +1,10 @@
 {
-    "token" : "ODgzMzUyODc4MDcxMzA0MjEy.YTIseg.v3yXkK8IVWP3c7r_MddJXLf3byI",
-    "prefix" : "$"
+    "prefix" : "$",
+    "albumId" : "TWuudHl",
+    "username" : "NTMOD",
+    "password" : "B74D16F9",
+    "clientId" : "af548436c5a68ad",
+    "album" : "https://imgur.com/a/TWuudHl",
+    "adminId" : ["344480653401653248","240009387106631680"],
+    "eventName" : "icu-dead-season1"
 }

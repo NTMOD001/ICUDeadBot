@@ -1,13 +1,19 @@
 {
-  "name": "Zevibot",
+  "name": "ZeviBot",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "author": "Michii",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.2.0-dev.1630670642.00bd92a",
-    "googleapis": "^39.2.0",
+    "discord.js": "12.1.0",
+    "express": "^4.17.1",
+    "googleapis": "^85.0.0",
+    "imgur": "^1.0.2",
     "moment": "^2.29.1"
-  }
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "description": ""
 }
